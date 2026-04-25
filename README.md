@@ -41,7 +41,7 @@
 
 📌 **Projeto E-Lixo Zero**
 
-🌎 Apresentação de projetos **fora do estado**
+🌎 **Apresentação de projetos**
 
 📚 Participação na **XI Bienal**
 
@@ -67,10 +67,3 @@
 # 📫 Contato E-mail
 
 💬 **E-mail:** `franklindev2009@gmail.com`
-
-🌐 **Comunidade FiveM**  
-https://discord.gg/NBtdqHuw72
-
-📺 **YouTube**  
-Canal com **+20 mil visualizações**  
-https://www.youtube.com/@dkfivemrp
