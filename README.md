@@ -1,124 +1,263 @@
-# 👨‍💻 DK
+# Franklin dos Santos Silva
 
-Desenvolvedor com foco em **programação, desenvolvimento de jogos, servidores FiveM, web e design visual**.  
-Tenho experiência na criação de sistemas escaláveis, interfaces, identidade visual para projetos e desenvolvimento de soluções completas para comunidades e servidores de grande porte.
+**Desenvolvedor | Programador | DevOps | Estudante de Informática**
 
----
+Sou estudante do **2º ano do curso Técnico em Informática no Instituto Federal de Alagoas (IFAL) — Campus Viçosa**. Tenho **17 anos** e estudo tecnologia desde os 12.
 
-## 🚀 Tech Stack
+Tenho experiência com desenvolvimento, programação, banco de dados, servidores, infraestrutura, hardware, segurança, design, edição e desenvolvimento com engines.
 
-### 💻 Linguagens
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-| Linguagem | Nível |
-|---|---|
-| Lua | Avançado |
-| Java | Intermediário |
-| JavaScript | Intermediário |
-| C# | Básico |
+Meu objetivo profissional é **ser contratado por empresas da área de tecnologia**, adquirir experiência profissional e evoluir como desenvolvedor e programador.
 
 ---
 
-### 🌐 Web & Frameworks
+## Tecnologias
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,java,js,nodejs,vue,cs,html,css,mysql,git,github,npm,unity,unreal" />
+</p>
 
-| Tecnologia | Nível |
-|---|---|
-| HTML5 | Avançado |
-| CSS3 | Avançado |
-| Node.js | Básico |
-| Vue.js | Básico |
-| jQuery | Básico |
-
----
-
-### 🎮 Game Development
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-| Tecnologia | Nível |
-|---|---|
-| Unity | Avançado |
+| Tecnologia     | Nível         |
+| -------------- | ------------- |
+| Lua            | Avançado      |
+| HTML           | Avançado      |
+| CSS            | Avançado      |
+| JavaScript     | Básico        |
+| Node.js        | Básico        |
+| jQuery         | Básico        |
+| Vue.js         | Básico        |
+| Java           | Básico        |
+| C#             | Básico        |
+| SQL            | Básico        |
+| Banco de Dados | Intermediário |
 
 ---
 
-### 🎨 Design & 3D
+## Desenvolvimento
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+Tenho conhecimentos e experiência nas áreas de:
 
-| Ferramenta | Nível |
-|---|---|
-| Photoshop | Avançado |
-| Blender | Básico |
-
-#### Outras habilidades
-
-- Modelagem 3D
-- Identidade visual para projetos
-- Design para servidores e comunidades
-- Criação de interfaces e elementos visuais
-- Organização visual de projetos digitais
+* Desenvolvimento de Software
+* Programação
+* Desenvolvimento Front-end
+* Desenvolvimento Back-end
+* Desenvolvimento Full Stack
+* APIs
+* Integrações
+* Banco de Dados
+* Sistemas web
+* Scripts e automações
 
 ---
 
-## 🏆 Experiência Acadêmica & Conquistas
+## Game Development
 
-- 🥇 1º lugar em eventos acadêmicos
-- 📌 Desenvolvimento e apresentação do projeto **E-Lixo Zero**
-- 🌎 Apresentação de projetos acadêmicos
-- 📚 Participação na **XI Bienal**
-- 🎓 Participação no **SIAI 2025**
-- 🛠 Projetos nas áreas de programação, manutenção e hardware
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs" />
+</p>
 
----
+Também possuo conhecimentos e experiência com:
 
-## 🎯 Experiência com FiveM
-
-Tenho experiência no desenvolvimento de soluções para servidores FiveM, atuando em projetos de grande porte e com foco em performance, organização e escalabilidade.
-
-### Principais experiências
-
-- Desenvolvimento para **servidores de grande porte**
-- Participação em projetos atualmente entre os **Top 10 do ranking FiveM**
-- Criação de sistemas **complexos e escaláveis**
-- Desenvolvimento **Full Stack**
-- Integração de sistemas com **IA**
-- Criação de recursos personalizados para comunidades RP
+* **Unity 3D**
+* **Unreal Engine**
+* Desenvolvimento com engines
+* Estruturação de projetos
+* Lógica aplicada a jogos
+* Scripts e sistemas
+* C# aplicado ao Unity
+* Ambientes 3D
+* Configuração e organização de projetos
 
 ---
 
-## 📌 Áreas de Interesse
+## Git, GitHub & NPM
 
-- Desenvolvimento de jogos
-- FiveM e servidores RP
-- Sistemas web
-- Inteligência Artificial aplicada a projetos
-- Design visual e identidade de marca
-- Desenvolvimento Full Stack
-- Unity e experiências interativas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm" />
+</p>
+
+Tenho experiência com:
+
+* Git
+* GitHub
+* Controle de versão
+* Repositórios
+* Branches
+* Commits
+* Versionamento de projetos
+* Organização de código
+* NPM
+* Gerenciamento de dependências
+* Instalação e configuração de pacotes
+* Scripts NPM
 
 ---
 
-## 📫 Contato
+## DevOps & Infraestrutura
 
-Entre em contato comigo para projetos, parcerias ou oportunidades.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare,gcp,git,github,nodejs,mysql" />
+</p>
 
-**E-mail:** `franklindev2009@gmail.com`
+Tenho conhecimentos e experiência com práticas e ferramentas relacionadas a **DevOps e infraestrutura**, incluindo:
+
+* Deploy de aplicações
+* Configuração de servidores
+* VPS
+* Hospedagem de aplicações
+* Gerenciamento de ambientes
+* Git e GitHub
+* NPM
+* Cloud
+* Banco de Dados
+* APIs
+* Serviços externos
+* Configuração de projetos em produção
+
+Plataformas e serviços com os quais já trabalhei:
+
+`Aiven` `Render` `Cloudflare` `Railway` `Discloud` `VPS` `Google Cloud`
 
 ---
 
-## 📊 GitHub Stats
+## Banco de Dados
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranklinDKz&show_icons=true&theme=tokyonight)
+Experiência ou conhecimento com:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinDKz&layout=compact&theme=tokyonight)
+* MariaDB
+* MySQL
+* SQL
+* HeidiSQL
+* XAMPP
+* Bancos hospedados
+* Estruturação de databases
+* Integração com aplicações
+* Consultas SQL
+* Gerenciamento de dados
+
+---
+
+## APIs & Integrações
+
+Tenho experiência com:
+
+* APIs
+* APIs REST
+* Integrações externas
+* APIs do Google
+* Google API Tokens
+* Tokens de autenticação
+* Autenticação
+* Comunicação entre aplicações
+* Integração entre front-end, back-end e banco de dados
+
+---
+
+## Segurança
+
+Conhecimentos aplicados em projetos:
+
+* Segurança de aplicações
+* Criptografia
+* Ofuscação de código
+* Proteção de APIs
+* Controle de acesso
+* Autenticação
+* Proteção de projetos
+* Análise e correção de vulnerabilidades
+
+---
+
+## Inteligência Artificial
+
+Tenho experiência com **uso e integração de Inteligência Artificial** em projetos e fluxos de desenvolvimento.
+
+Utilizo IA como ferramenta de apoio para produtividade, análise e desenvolvimento, mantendo conhecimento e controle sobre o código implementado.
+
+**Não utilizo Vibe Coding como método de desenvolvimento de projetos.**
+
+---
+
+## Hardware & T.I.
+
+Experiência técnica com:
+
+* Montagem de computadores
+* Manutenção de computadores e notebooks
+* Otimização de sistemas
+* Diagnóstico de problemas
+* Limpeza preventiva
+* Formatação e configuração
+* Componentes e placas
+* Consoles
+* Celulares
+* Hardware e software
+
+---
+
+## Design & Audiovisual
+
+Ferramentas e áreas com as quais já trabalhei:
+
+`Adobe Photoshop` `After Effects` `Canva` `CapCut`
+
+* Design gráfico
+* Edição de imagens
+* Edição de vídeos
+* Conteúdo para redes sociais
+* Materiais de divulgação
+
+---
+
+## Comercial & Comunicação
+
+Também possuo experiência com:
+
+* Vendas
+* Marketing
+* Divulgação
+* Atendimento ao cliente
+* Negociação
+* Trabalho em equipe
+* Comunicação com clientes e equipes
+
+Administro uma loja no Discord voltada para serviços e produtos digitais, incluindo **VPS e Keys Patreon para servidores FiveM**.
+
+---
+
+## Experiência Acadêmica
+
+* 🥇 **1º lugar em eventos acadêmicos**
+* ♻️ Desenvolvimento e apresentação do projeto **E-Lixo Zero**
+* 🌎 Apresentação de projetos acadêmicos
+* 📚 Participação na **XI Bienal**
+* 🎓 Participação no **SIAI 2025**
+* 🛠️ Projetos envolvendo programação, manutenção e hardware
+
+---
+
+## Atualmente estudando
+
+`Lua` `JavaScript` `Node.js` `Java` `C#` `SQL` `Banco de Dados` `APIs` `Cloud` `DevOps` `Segurança` `Back-end` `Front-end` `Unity 3D` `Unreal Engine` `Inteligência Artificial`
+
+---
+
+## Objetivo Profissional
+
+Busco oportunidades em empresas de tecnologia para atuar como:
+
+* Desenvolvedor
+* Programador
+* Desenvolvedor Full Stack
+* Desenvolvedor Back-end
+* Desenvolvedor Front-end
+* DevOps
+* Game Developer
+* T.I. e Infraestrutura
+
+Meu objetivo é adquirir experiência profissional, participar de projetos reais e continuar evoluindo tecnicamente.
+
+---
+
+## Contato
+
+📧 **E-mail:** [franklindev2009@gmail.com](mailto:franklindev2009@gmail.com)
