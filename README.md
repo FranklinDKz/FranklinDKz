@@ -6,8 +6,6 @@ Sou estudante do **2º ano do curso Técnico em Informática no Instituto Federa
 
 Tenho experiência com desenvolvimento, programação, banco de dados, servidores, infraestrutura, hardware, segurança, design, edição e desenvolvimento com engines.
 
-Meu objetivo profissional é **ser contratado por empresas da área de tecnologia**, adquirir experiência profissional e evoluir como desenvolvedor e programador.
-
 ---
 
 ## Tecnologias
@@ -229,7 +227,7 @@ Administro uma loja no Discord voltada para serviços e produtos digitais, inclu
 
 ## Objetivo Profissional
 
-Busco oportunidades em empresas de tecnologia para atuar como:
+Busco oportunidades em empresas/equipes de tecnologia para atuar como:
 
 * Desenvolvedor
 * Programador
