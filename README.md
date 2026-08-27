@@ -16,20 +16,6 @@ Meu objetivo profissional é **ser contratado por empresas da área de tecnologi
   <img src="https://skillicons.dev/icons?i=lua,java,js,nodejs,vue,cs,html,css,mysql,git,github,npm,unity,unreal" />
 </p>
 
-| Tecnologia     | Nível         |
-| -------------- | ------------- |
-| Lua            | Avançado      |
-| HTML           | Avançado      |
-| CSS            | Avançado      |
-| JavaScript     | Básico        |
-| Node.js        | Básico        |
-| jQuery         | Básico        |
-| Vue.js         | Básico        |
-| Java           | Básico        |
-| C#             | Básico        |
-| SQL            | Básico        |
-| Banco de Dados | Intermediário |
-
 ---
 
 ## Desenvolvimento
