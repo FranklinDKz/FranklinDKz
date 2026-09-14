@@ -210,12 +210,13 @@ Administro uma loja no Discord voltada para serviços e produtos digitais, inclu
 
 ## Experiência Acadêmica
 
-* 🥇 **1º lugar em eventos acadêmicos**
+* 🥇 **1º lugar em eventos acadêmicos (FAPAZ)**
 * ♻️ Desenvolvimento e apresentação do projeto **E-Lixo Zero**
 * 🌎 Apresentação de projetos acadêmicos
 * 📚 Participação na **XI Bienal**
-* 🎓 Participação no **SIAI 2025**
+* 🎓 Participação no **SIAI 2025 & 2026 (IFAL - CAMPUS VIÇOSA)**
 * 🛠️ Projetos envolvendo programação, manutenção e hardware
+* 🤍 Experiência com Liderança, e aluno da One Way (Monkey Academy) 
 
 ---
 
