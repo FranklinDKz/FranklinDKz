@@ -157,7 +157,7 @@ Tenho experiência com **uso e integração de Inteligência Artificial** em pro
 
 Utilizo IA como ferramenta de apoio para produtividade, análise e desenvolvimento, mantendo conhecimento e controle sobre o código implementado.
 
-**Não utilizo Vibe Coding como método de desenvolvimento de projetos.**
+**Manipulação de chatbot agents IA.**
 
 ---
 
