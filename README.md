@@ -2,7 +2,7 @@
 
 **Desenvolvedor | Programador | DevOps | Estudante de Informática**
 
-Sou estudante do **2º ano do curso Técnico em Informática no Instituto Federal de Alagoas (IFAL) — Campus Viçosa**. Tenho **18 anos** e estudo tecnologia desde os 12.
+Sou do **2º ano do curso Técnico em Informática no Instituto Federal de Alagoas (IFAL) — Campus Viçosa**. irei fazer **19 anos** e estudo tecnologia desde os 12.
 
 Tenho experiência com desenvolvimento, programação, banco de dados, servidores, infraestrutura, hardware, segurança, design, edição e desenvolvimento com engines.
 
