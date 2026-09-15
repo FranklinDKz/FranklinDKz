@@ -48,7 +48,7 @@ Tenho conhecimento e experiência com:
 
 CMD (Prompt de Comando/Terminal)
 * PowerShell
-* Redes de computadores: Entender os protocolos de comunicação (como TCP/IP, DNS e HTTP) e o tráfego de dados.
+* Redes de computadores: Entender os protocolos de comunicação (como TCP/IP, DNS e HTTP/HTTPS) e o tráfego de dados.
 * Sistemas operacionais: Dominar o funcionamento do [Linux e do Windows]
 
 ---
