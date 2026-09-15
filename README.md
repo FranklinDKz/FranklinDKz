@@ -33,7 +33,7 @@ Tenho conhecimentos e experiência nas áreas de:
 
 --
 
-## + Administração
+## Administração
 
 Tenho conhecimento e experiência com:
 
@@ -42,10 +42,14 @@ Tenho conhecimento e experiência com:
 * Word + WPS
 * Docx + PDF
 
-Extras:
+--
+
+## CyberSegurança:
 
 CMD (Prompt de Comando/Terminal)
-+ PowerShell
+* PowerShell
+* Redes de computadores: Entender os protocolos de comunicação (como TCP/IP, DNS e HTTP) e o tráfego de dados.
+* Sistemas operacionais: Dominar o funcionamento do [Linux e do Windows]
 
 ---
 
