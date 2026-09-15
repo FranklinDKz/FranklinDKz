@@ -31,6 +31,22 @@ Tenho conhecimentos e experiência nas áreas de:
 * Sistemas web
 * Scripts e automações
 
+--
+
+## + Administração
+
+Tenho conhecimento e experiência com:
+
+* Planilhas & Excel
+* PowerPoint
+* Word + WPS
+* Docx + PDF
+
+Extras:
+
+CMD (Prompt de Comando/Terminal)
++ PowerShell
+
 ---
 
 ## Game Development
@@ -150,6 +166,17 @@ Conhecimentos aplicados em projetos:
 * Análise e correção de vulnerabilidades
 
 ---
+
+## FiveM (CFX) Servers
+
+Conhecimento profissional com criação de resources/scripts pra FiveM
+
+* Lógicas de scripts
+* Condição de scripts
+* Administração / Líder 
+* Economia
+
+--
 
 ## Inteligência Artificial
 
