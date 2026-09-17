@@ -1,8 +1,8 @@
-# Franklin dos Santos Silva | DK RP
+# DK RP
 
 **Desenvolvedor | Programador | DevOps | Estudante de Informática**
 
-Sou do **2º ano do curso Técnico em Informática no Instituto Federal de Alagoas (IFAL) — Campus Viçosa**. irei fazer **19 anos** e estudo tecnologia desde os 12.
+Sou do **2º ano do curso Técnico em Informática no Instituto Federal**.
 
 Tenho experiência com desenvolvimento, programação, banco de dados, servidores, infraestrutura, hardware, segurança, design, edição e desenvolvimento com engines.
 
@@ -245,7 +245,7 @@ Administro uma loja no Discord voltada para serviços e produtos digitais, inclu
 * ♻️ Desenvolvimento e apresentação do projeto **E-Lixo Zero**
 * 🌎 Apresentação de projetos acadêmicos
 * 📚 Participação na **XI Bienal**
-* 🎓 Participação no **SIAI 2025 & 2026 (IFAL - CAMPUS VIÇOSA)**
+* 🎓 Participação no **SIAI 2025 & 2026 (IF)**
 * 🛠️ Projetos envolvendo programação, manutenção e hardware
 * 🤍 Experiência com Liderança, e aluno da One Way (Monkey Academy) 
 
@@ -273,7 +273,3 @@ Busco oportunidades em empresas/equipes de tecnologia para atuar como:
 Meu objetivo é adquirir experiência profissional, participar de projetos reais e continuar evoluindo tecnicamente.
 
 ---
-
-## Contato
-
-📧 **E-mail:** [franklindev2009@gmail.com](mailto:franklindev2009@gmail.com)
