@@ -1,275 +1,321 @@
 # DK RP
 
-**Desenvolvedor | Programador | DevOps | Estudante de Informática**
+### Developer • DevOps • IT Student
 
-Sou do **2º ano do curso Técnico em Informática no Instituto Federal**.
+Estudante do **2º ano do curso Técnico em Informática no Instituto Federal**, com foco em desenvolvimento de software, infraestrutura, servidores, banco de dados e desenvolvimento de aplicações.
 
-Tenho experiência com desenvolvimento, programação, banco de dados, servidores, infraestrutura, hardware, segurança, design, edição e desenvolvimento com engines.
+Atuo principalmente com desenvolvimento web, automações, APIs, servidores e projetos voltados ao ecossistema **FiveM/CFX**. Também tenho contato com desenvolvimento de jogos, segurança de aplicações, hardware e infraestrutura.
 
 ---
 
-## Tecnologias
+## 🧑‍💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua,java,js,nodejs,vue,cs,html,css,mysql,git,github,npm,unity,unreal" />
 </p>
 
----
+**Principais tecnologias:**
 
-## Desenvolvimento
-
-Tenho conhecimentos e experiência nas áreas de:
-
-* Desenvolvimento de Software
-* Programação
-* Desenvolvimento Front-end
-* Desenvolvimento Back-end
-* Desenvolvimento Full Stack
-* APIs
-* Integrações
-* Banco de Dados
-* Sistemas web
-* Scripts e automações
-
---
-
-## Administração
-
-Tenho conhecimento e experiência com:
-
-* Planilhas & Excel
-* PowerPoint
-* Word + WPS
-* Docx + PDF
-
---
-
-## CyberSegurança:
-
-CMD (Prompt de Comando/Terminal)
-* PowerShell
-* Redes de computadores: Entender os protocolos de comunicação (como UDP/TCP/IP, DNS e HTTP/HTTPS) e o tráfego de dados.
-* Sistemas operacionais: Dominar o funcionamento do [Linux e do Windows]
+`Lua` `JavaScript` `Node.js` `Java` `C#` `HTML` `CSS` `Vue.js` `SQL` `MySQL` `MariaDB`
 
 ---
 
-## Game Development
+## 💻 Desenvolvimento
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs" />
-</p>
+Trabalho e estudo áreas relacionadas a:
 
-Também possuo conhecimentos e experiência com:
-
-* **Unity 3D**
-* **Unreal Engine**
-* Desenvolvimento com engines
-* Estruturação de projetos
-* Lógica aplicada a jogos
-* Scripts e sistemas
-* C# aplicado ao Unity
-* Ambientes 3D
-* Configuração e organização de projetos
+- Desenvolvimento Back-end
+- Desenvolvimento Front-end
+- Aplicações Full Stack
+- APIs REST
+- Integração entre serviços
+- Sistemas web
+- Scripts e automações
+- Autenticação e controle de acesso
+- Integração com banco de dados
+- Estruturação e manutenção de projetos
 
 ---
 
-## Git, GitHub & NPM
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm" />
-</p>
-
-Tenho experiência com:
-
-* Git
-* GitHub
-* Controle de versão
-* Repositórios
-* Branches
-* Commits
-* Versionamento de projetos
-* Organização de código
-* NPM
-* Gerenciamento de dependências
-* Instalação e configuração de pacotes
-* Scripts NPM
-
----
-
-## DevOps & Infraestrutura
+## ⚙️ DevOps & Infraestrutura
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cloudflare,gcp,git,github,nodejs,mysql" />
 </p>
 
-Tenho conhecimentos e experiência com práticas e ferramentas relacionadas a **DevOps e infraestrutura**, incluindo:
+Tenho experiência prática com deploy, hospedagem e configuração de ambientes para aplicações.
 
-* Deploy de aplicações
-* Configuração de servidores
-* VPS
-* Hospedagem de aplicações
-* Gerenciamento de ambientes
-* Git e GitHub
-* NPM
-* Cloud
-* Banco de Dados
-* APIs
-* Serviços externos
-* Configuração de projetos em produção
+**Áreas:**
 
-Plataformas e serviços com os quais já trabalhei:
+- Deploy de aplicações
+- Configuração de servidores
+- VPS
+- Ambientes Linux e Windows
+- Hospedagem de aplicações
+- Variáveis de ambiente
+- DNS e domínios
+- Cloud
+- Banco de dados remoto
+- Gerenciamento de dependências
+- Configuração de projetos em produção
 
-`Aiven` `Render` `Cloudflare` `Railway` `Discloud` `VPS` `Google Cloud`
+**Plataformas que já utilizei:**
 
----
-
-## Banco de Dados
-
-Experiência ou conhecimento com:
-
-* MariaDB
-* MySQL
-* SQL
-* HeidiSQL
-* XAMPP
-* Bancos hospedados
-* Estruturação de databases
-* Integração com aplicações
-* Consultas SQL
-* Gerenciamento de dados
+`Google Cloud` `Cloudflare` `Render` `Railway` `Discloud` `Aiven` `VPS`
 
 ---
 
-## APIs & Integrações
+## 🗄️ Banco de Dados
 
-Tenho experiência com:
+Trabalho com bancos relacionais e integração de aplicações com:
 
-* APIs
-* APIs REST
-* Integrações externas
-* APIs do Google
-* Google API Tokens
-* Tokens de autenticação
-* Autenticação
-* Comunicação entre aplicações
-* Integração entre front-end, back-end e banco de dados
-
----
-
-## Segurança
-
-Conhecimentos aplicados em projetos:
-
-* Segurança de aplicações
-* Criptografia
-* Ofuscação de código
-* Proteção de APIs
-* Controle de acesso
-* Autenticação
-* Proteção de projetos
-* Análise e correção de vulnerabilidades
+- MySQL
+- MariaDB
+- SQL
+- HeidiSQL
+- XAMPP
+- Bancos hospedados
+- Modelagem e estruturação de dados
+- Consultas SQL
+- Integração Back-end ↔ Database
+- Administração e manutenção de bancos
 
 ---
 
-## FiveM (CFX) Servers
+## 🔌 APIs & Integrações
 
-Conhecimento profissional com criação de resources/scripts pra FiveM
+Tenho contato com desenvolvimento e consumo de APIs em diferentes projetos.
 
-* Lógicas de scripts
-* Condição de scripts
-* Administração / Líder 
-* Economia
-
---
-
-## Inteligência Artificial
-
-Tenho experiência com **uso e integração de Inteligência Artificial** em projetos e fluxos de desenvolvimento.
-
-Utilizo IA como ferramenta de apoio para produtividade, análise e desenvolvimento, mantendo conhecimento e controle sobre o código implementado.
-
-**Manipulação de chatbot agents IA.**
+- APIs REST
+- Integrações externas
+- Google APIs
+- Tokens de autenticação
+- API Keys
+- Autenticação
+- Comunicação entre aplicações
+- Integração Front-end ↔ Back-end
+- Integração Back-end ↔ Banco de dados
+- Webhooks
 
 ---
 
-## Hardware & T.I.
+## 🧩 Git, GitHub & NPM
 
-Experiência técnica com:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm" />
+</p>
 
-* Montagem de computadores
-* Manutenção de computadores e notebooks
-* Otimização de sistemas
-* Diagnóstico de problemas
-* Limpeza preventiva
-* Formatação e configuração
-* Componentes e placas
-* Consoles
-* Celulares
-* Hardware e software
+Utilizo Git e GitHub para organização e versionamento dos meus projetos.
+
+- Git
+- GitHub
+- Repositórios
+- Branches
+- Commits
+- Versionamento
+- Organização de código
+- NPM
+- Gerenciamento de dependências
+- Scripts NPM
 
 ---
 
-## Design & Audiovisual
+## 🎮 FiveM / CFX
 
-Ferramentas e áreas com as quais já trabalhei:
+Desenvolvimento e administração de projetos voltados para servidores **FiveM**.
+
+Principais áreas:
+
+- Desenvolvimento de resources
+- Scripts em Lua
+- Client-side e Server-side
+- Eventos
+- Integração com banco de dados
+- Sistemas administrativos
+- Sistemas de economia
+- Lógica de scripts
+- Configuração de servidores
+- Organização de resources
+- Manutenção e otimização
+
+---
+
+## 🕹️ Game Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs" />
+</p>
+
+Também estudo desenvolvimento de jogos e utilização de engines.
+
+- Unity
+- Unreal Engine
+- C# com Unity
+- Lógica aplicada a jogos
+- Scripts e sistemas
+- Ambientes 3D
+- Estruturação de projetos
+- Configuração de engines
+
+---
+
+## 🔐 Segurança & Redes
+
+Conhecimentos aplicados a desenvolvimento, servidores e infraestrutura:
+
+- Segurança de aplicações
+- Proteção de APIs
+- Autenticação
+- Controle de acesso
+- Criptografia
+- Ofuscação de código
+- Análise de vulnerabilidades
+- Redes de computadores
+- TCP/IP
+- UDP
+- DNS
+- HTTP / HTTPS
+- PowerShell
+- CMD / Terminal
+- Linux
+- Windows
+
+---
+
+## 🤖 Inteligência Artificial
+
+Utilizo ferramentas de Inteligência Artificial como apoio em desenvolvimento, produtividade, análise e automação.
+
+Também estudo integração e utilização de:
+
+- APIs de IA
+- Chatbots
+- Agents
+- Automação de tarefas
+- Integração de IA com aplicações
+- Fluxos de desenvolvimento assistidos por IA
+
+Sempre mantendo compreensão e controle sobre o código e a arquitetura implementada.
+
+---
+
+## 🖥️ Hardware & T.I.
+
+Além de programação, também possuo experiência prática com hardware e suporte técnico.
+
+- Montagem de computadores
+- Manutenção de PCs e notebooks
+- Diagnóstico de hardware
+- Diagnóstico de software
+- Formatação e configuração
+- Otimização de sistemas
+- Limpeza preventiva
+- Componentes e placas
+- Consoles
+- Smartphones
+
+---
+
+## 🎨 Design & Audiovisual
+
+Ferramentas que já utilizei:
 
 `Adobe Photoshop` `After Effects` `Canva` `CapCut`
 
-* Design gráfico
-* Edição de imagens
-* Edição de vídeos
-* Conteúdo para redes sociais
-* Materiais de divulgação
+Experiência com:
+
+- Design gráfico
+- Edição de imagens
+- Edição de vídeos
+- Conteúdo para redes sociais
+- Identidade visual
+- Materiais de divulgação
 
 ---
 
-## Comercial & Comunicação
+## 📊 Ferramentas de Produtividade
 
-Também possuo experiência com:
+Também utilizo ferramentas voltadas para documentação, organização e produtividade:
 
-* Vendas
-* Marketing
-* Divulgação
-* Atendimento ao cliente
-* Negociação
-* Trabalho em equipe
-* Comunicação com clientes e equipes
-
-Administro uma loja no Discord voltada para serviços e produtos digitais, incluindo **VPS e Keys Patreon para servidores FiveM**.
-
----
-
-## Experiência Acadêmica
-
-* 🥇 **1º lugar em eventos acadêmicos (FAPAZ)**
-* ♻️ Desenvolvimento e apresentação do projeto **E-Lixo Zero**
-* 🌎 Apresentação de projetos acadêmicos
-* 📚 Participação na **XI Bienal**
-* 🎓 Participação no **SIAI 2025 & 2026 (IF)**
-* 🛠️ Projetos envolvendo programação, manutenção e hardware
-* 🤍 Experiência com Liderança, e aluno da One Way (Monkey Academy) 
+- Microsoft Excel
+- Microsoft Word
+- Microsoft PowerPoint
+- WPS Office
+- Planilhas
+- Documentos DOCX
+- PDFs
+- Apresentações
 
 ---
 
-## Atualmente estudando
+## 💼 Projetos & Comercial
 
-`Lua` `JavaScript` `Node.js` `Java` `C#` `SQL` `Banco de Dados` `APIs` `Cloud` `DevOps` `Segurança` `Back-end` `Front-end` `Unity 3D` `Unreal Engine` `Inteligência Artificial`
+Também tenho experiência com projetos e serviços digitais, envolvendo:
+
+- Atendimento ao cliente
+- Vendas
+- Negociação
+- Marketing
+- Divulgação
+- Organização de projetos
+- Comunicação com clientes e equipes
+- Liderança
+
+Administro uma loja no Discord voltada para produtos e serviços digitais relacionados ao ecossistema FiveM, incluindo infraestrutura e serviços para servidores.
+
+---
+
+## 🎓 Experiência Acadêmica
+
+- 🥇 **1º lugar em evento acadêmico — FAPAZ**
+- ♻️ Desenvolvimento e apresentação do projeto **E-Lixo Zero**
+- 🌎 Apresentação de projetos acadêmicos
+- 📚 Participação na **XI Bienal**
+- 🎓 Participação no **SIAI 2025 e 2026**
+- 🛠️ Projetos envolvendo programação, manutenção e hardware
+- 👥 Experiência com trabalho em equipe e liderança
+- 📖 Aluno da **One Way / Monkey Academy**
 
 ---
 
-## Objetivo Profissional
+## 📚 Atualmente estudando
 
-Busco oportunidades em empresas/equipes de tecnologia para atuar como:
-
-* Desenvolvedor
-* Programador
-* Desenvolvedor Full Stack
-* Desenvolvedor Back-end
-* Desenvolvedor Front-end
-* DevOps
-* Game Developer
-* T.I. e Infraestrutura
-
-Meu objetivo é adquirir experiência profissional, participar de projetos reais e continuar evoluindo tecnicamente.
+```text
+Lua
+JavaScript
+Node.js
+Java
+C#
+SQL
+Banco de Dados
+APIs
+Cloud
+DevOps
+Cybersecurity
+Back-end
+Front-end
+Unity
+Unreal Engine
+Inteligência Artificial
+```
 
 ---
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor, participando de projetos reais e aprofundando meus conhecimentos em engenharia de software, desenvolvimento Back-end, infraestrutura, DevOps e sistemas.
+
+Tenho interesse em oportunidades relacionadas a:
+
+- Software Development
+- Back-end Development
+- Full Stack Development
+- Front-end Development
+- DevOps
+- Cloud & Infrastructure
+- Game Development
+- T.I.
+
+---
+
+> **Building, learning and improving one project at a time.**
