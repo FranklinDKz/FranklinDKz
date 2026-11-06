@@ -1,7 +1,7 @@
 <h1 align="center">Franklin · DK RP</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack & Back-end · DevOps · Ferramentas Desktop</b><br/>
+  <b>Desenvolvedor Full Stack</b><br/>
   Técnico em Informática (Instituto Federal, 2º ano) · Brasil 🇧🇷
 </p>
 
@@ -17,7 +17,7 @@
 
 Desenvolvo e publico software que outras pessoas usam: **plataforma web com pagamentos e painel administrativo, APIs com migrations e testes, aplicativos desktop para Windows e sistemas de licenciamento**. Boa parte do meu trabalho vem do ecossistema **FiveM**, onde mantenho uma comunidade, uma loja e produtos digitais com clientes reais, o que me ensinou a lidar com suporte, deploy, segurança e manutenção de verdade.
 
-Procuro **estágio ou vaga júnior** em Back-end, Full Stack ou DevOps.
+Procuro **estágio ou vaga júnior** como desenvolvedor Full Stack.
 
 ---
 
