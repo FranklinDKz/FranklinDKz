@@ -23,7 +23,7 @@ Procuro **estágio ou vaga júnior** como desenvolvedor Full Stack.
 
 ## 🚀 Projetos em destaque
 
-### 🌐 [ScR Community](https://github.com/FranklinDKz/scr-community-fivem) · [site no ar](https://scr-community.dk-rp.workers.dev)
+### 🌐 [ScR Community](https://github.com/FranklinDKz/scr-community-fivem)
 Plataforma web completa para distribuir resources, vender bases e prestar suporte.
 `TypeScript` `Cloudflare Workers` `D1 (SQL)` `R2` `Vite`
 - API serverless no **Cloudflare Workers**, banco **D1** com **migrations versionadas** e arquivos privados no **R2**
