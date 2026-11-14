@@ -137,13 +137,4 @@ Deploy em **Cloudflare, Google Cloud, VPS Linux/Windows, Render, Railway** e out
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FranklinDKz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinDKz&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Construindo, aprendendo e melhorando um projeto por vez.</i></p>
