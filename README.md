@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b><br/>
-  Técnico em Informática (Instituto Federal, 2º ano) · Brasil 🇧🇷
+  Técnico em Informática (Instituto Federal, 2º ano)
 </p>
 
 <p align="center">
@@ -131,7 +131,8 @@ Deploy em **Cloudflare, Google Cloud, VPS Linux/Windows, Render, Railway** e out
 
 - 🎓 **Técnico em Informática**, Instituto Federal (2º ano)
 - 🥇 **1º lugar**, evento acadêmico FAPAZ, projeto **E-Lixo Zero**
-- 🌎 XI Bienal · SIAI 2025 e 2026
+- 🌎 XI Bienal · SIAI 2025 e 2026 
+- (IF) Interfaces 2026
 - 📖 One Way / Monkey Academy
 - 🖥️ Base em hardware e suporte: montagem, manutenção e diagnóstico de PCs, notebooks e consoles
 
